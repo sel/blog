@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Steve Larkin</title>
+    <link>https://sel.dev/post/</link>
+    <description>Recent content in Posts on Steve Larkin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&amp;copy; &lt;a href=&#34;https://twitter.com/slarkin&#34;&gt;Steve Larkin&lt;/a&gt; 2019</copyright>
+    <lastBuildDate>Wed, 07 Aug 2019 15:42:12 +0200</lastBuildDate>
+    
+	<atom:link href="https://sel.dev/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Football Hackers</title>
+      <link>https://sel.dev/post/football-hackers/</link>
+      <pubDate>Wed, 07 Aug 2019 15:42:12 +0200</pubDate>
+      
+      <guid>https://sel.dev/post/football-hackers/</guid>
+      <description>I recently read &amp;ldquo;Football Hackers: The Science and Art of a Data Revolution&amp;ldquo; by Christoph Biermann.
+This is a great book!</description>
+    </item>
+    
+  </channel>
+</rss>
